@@ -30,8 +30,6 @@ Hey, I am a passionate computer science student. I want to be a full stack web d
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naeem118)  
 
-![GitHub metrics](https://metrics.lecoq.io/Naeem118)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Naeem118)  
 ##
 ![Profile views](https://gpvc.arturio.dev/Naeem118) 
