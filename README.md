@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Golam Mostofa Naeem.
 #### Web Developer
-![Web Developer](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/259624688_1809483159439523_2835287963297450755_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHHo6Myywa2-fE_MFfyfsYqSr2QOt6XBghKvZA63pcGCLqCw0aZ6CvlqnHmJ7FzEdbvEtEqyAMVtJcMbqWroxAu&_nc_ohc=kWIXRwHH5tsAX_bWq4f&_nc_ht=scontent.fdac140-1.fna&oh=00_AT-oVB7Zb386TsRq0xqpzUirBebfS5gJ-FtNUxOq08DbzA&oe=626F73AB)
+![Web Developer]
 ### About Me:
 Hey, I am a passionate computer science student. I want to be a full stack web developer. Currently I am learning to improve my web development skills. I can explore the possibility of a new era in the field of information technology.
 ### My Skills:
