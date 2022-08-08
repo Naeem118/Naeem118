@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Golam Mostofa Naeem.
-#### Web Developer
-![Web Developer]
 ### About Me:
 Hey, I am a passionate computer science student. I want to be a full stack web developer. Currently I am learning to improve my web development skills. I can explore the possibility of a new era in the field of information technology.
 ### My Skills:
