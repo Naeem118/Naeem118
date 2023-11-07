@@ -23,12 +23,4 @@ Hey, I am a passionate computer science student. I want to be a full stack web d
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naeem118)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naeem118)](https://github.com/anuraghazra/github-readme-stats)
-##
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naeem118&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naeem118)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Naeem118)  
-##
-![Profile views](https://gpvc.arturio.dev/Naeem118) 
 
